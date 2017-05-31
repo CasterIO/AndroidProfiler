@@ -1,2 +1,2 @@
-# AndroidProfiler
-This application is used to demonstate the features of the Android Profiler tool.
+# Bootstrap
+Repository to demonstrate bootstrapping an Android App using the templates built into Android Studio
